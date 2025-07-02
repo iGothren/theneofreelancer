@@ -1,7 +1,7 @@
 ---
 type: 'slide'
-title: "What I'm Learning?"
-weight: 3
+title: "📚 What I'm Learning?"
+weight: 0
 params:
     headless: true
 ---

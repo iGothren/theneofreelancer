@@ -80,7 +80,7 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
         ## Disable comments (disable fediverse comments)
         disabled = false
         ## Comment platform selection, pending rule implementation
-        # platform = 'giscus'
+        platform = 'giscus'
 
     ## Favicon configuration
     [params.favicon]
