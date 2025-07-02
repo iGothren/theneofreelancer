@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Neo Freelancer</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent Posts on The Neo Freelancer</description>
+    <generator>Hugo 0.147.9</generator>
+    <language>en</language>
+    <managingEditor>G. Carvalho</managingEditor>
+    
+      <webMaster>G. Carvalho</webMaster>
+    <lastBuildDate>Wed, 02 Jul 2025 14:26:35 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I use Arch, BTW</title>
+      <link>http://localhost:1313/en/posts/i_use_arch_btw/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <author>G. Carvalho</author>
+      <guid>http://localhost:1313/en/posts/i_use_arch_btw/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;Hi, I’m &lt;a href=&#34;https://www.linkedin.com/in/gustavo-carvalho-54b43a363/&#34;&gt;&lt;em&gt;G. Carvalho&lt;/em&gt;&lt;/a&gt;, a &lt;strong&gt;high school student&lt;/strong&gt; passionate about &lt;strong&gt;technology&lt;/strong&gt;, &lt;strong&gt;competitive mathematics&lt;/strong&gt;, and &lt;strong&gt;freelancing&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I’m diving into &lt;strong&gt;full-stack web development&lt;/strong&gt;, &lt;strong&gt;multimedia design&lt;/strong&gt;, and exploring online business ventures like &lt;strong&gt;affiliate marketing and dropshipping&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This blog is where I share my journey, projects, and insights. As a self-taught developer with a knack for problem-solving—honed through winning &lt;strong&gt;&lt;em&gt;gold&lt;/em&gt; and &lt;em&gt;silver medals&lt;/em&gt; at a Brazilian Math Olympiad (&lt;a href=&#34;http://obmep.org.br/estudos.htm&#34;&gt;&lt;em&gt;OBMEP&lt;/em&gt;&lt;/a&gt;)&lt;/strong&gt; — I’m excited to create and share projects that make an impact.&lt;/p&gt;</description>
+      <enclosure url="http://localhost:1313/en/posts/i_use_arch_btw/cover.jpg" length="0" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev-Journey on The Neo Freelancer</title>
+    <link>http://localhost:1313/en/tags/dev-journey/</link>
+    <description>Recent Posts in Dev-Journey on The Neo Freelancer</description>
+    <generator>Hugo 0.147.9</generator>
+    <language>en</language>
+    <managingEditor>G. Carvalho</managingEditor>
+    
+      <webMaster>G. Carvalho</webMaster>
+    <lastBuildDate>Wed, 02 Jul 2025 12:48:52 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/dev-journey/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I use Arch, BTW</title>
+      <link>http://localhost:1313/en/posts/i_use_arch_btw/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <author>G. Carvalho</author>
+      <guid>http://localhost:1313/en/posts/i_use_arch_btw/</guid>
+      <description></description>
+      <enclosure url="http://localhost:1313/en/posts/i_use_arch_btw/cover.jpg" length="0" type="image/jpeg" />
+    </item>
+  </channel>
+</rss>

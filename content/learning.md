@@ -1,19 +1,38 @@
 ---
 type: 'slide'
-title: "My Learning Roadmap"
-weight: 2
+title: "What I'm Learning?"
+weight: 3
 params:
     headless: true
-    target: 'https://example.com'
 ---
 
-Here's what I'm planning to dive into next — a mix of ideas, fields, and tools I want to master as I grow into freelancing.
+Here is an simplified overview:
 
-| **Fields I Plan to Explore**                       | Related **Tools & Technologies**  |
-| -------------------------------------------------- | ----------------------------------------- |
-| UX/UI Design, Color Theory                         | Figma, Webflow, Softr                     |
-| Vibe-Coding: AI, web3, remote collaboration        | ChatGPT, Python, Git, Markdown            |
-| Freelancing & Digital Workflows                    | Notion, Google Docs, REST APIs            |
-| Fullstack Development (Front-end + Back-end)       | HTML, CSS, JavaScript, C++, Hugo, Netlify |
-| Writing for the Web (blogs, scripts, storytelling) | Markdown, Ghost CMS, Grammarly, SEO tools |
+## Skills
+
+- **Programming Languages**: HTML, CSS, JavaScript, Python, etc.  
+- **Tools**: Git, Vim, LaTeX, [Typst](https://github.com/typst/typst), Adobe Photoshop, etc.
+- **Operating Systems**: Linux (used many distros such as: [Arch](https://theneofreelancer.netlify.app/en/posts/i_use_arch_btw/), Ubuntu, Fedora, Debian, BionicPup32, etc.)
+- **Problem-Solving**: **Gold and silver medals at a Brazilian Math Olympiad ([OBMEP](http://obmep.org.br/estudos.htm))**, experience with [Project Euler](https://projecteuler.net/) and LeetCode, etc.  
+- **Business and Marketing**: Exploring Digital Marketing, Dropshipping, and Affiliate Marketing. 
+- **Other**: Video editing, drawing & pixel art, competitive mathematics (aiming for [IMO](https://www.imo-official.org/) level).
+- **Soft Skills ("seriously?")**: Communication, time management, quick learning, etc.
+
+## Education
+
+- Participating in [**IMPA’s PIC program** (Scientific Initiation Project for Competitive Mathematics)](http://obmep.org.br/pic.htm)  
+- Currently progressing through [**The Odin Project’s full-stack JavaScript curriculum**](https://www.theodinproject.com/dashboard). 
+
+## Languages
+
+- **Portuguese**: Native.
+- **English**: C2 Proficient ([EF SET certified](https://cert.efset.org/en/j7Z4AK)).
+- **Spanish**: Decent understanding (due to similarity with Portuguese).
+- **Japanese**: Basic (N4 level).
+
+## Interests
+
+- **Science**: Math & Physics.
+- **Engineering**: IT, Software & Hardware.
+- **Competitive Problem-Solving**: [IMO](https://www.imo-official.org/), [IOI](https://duckduckgo.com/?q=ioi&ia=web), etc.
 

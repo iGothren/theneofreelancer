@@ -3,16 +3,9 @@ cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/fl
 keepAspectRatio: true
 ---
 
-# Hey! 👋  
-**I’m a high school student working to enter the freelancing world — starting with blogging, vibe-coding, and smart tools like AI.**
+# About Me
+Hi, I’m [_G. Carvalho_](https://www.linkedin.com/in/gustavo-carvalho-54b43a363/), a **high school student** passionate about **technology**, **competitive mathematics**, and **freelancing**.
 
-This site is just a playground and portfolio — a space to test and show what I can do.
+I’m diving into **full-stack web development**, **multimedia design**, and exploring online business ventures like **affiliate marketing and dropshipping**.
 
-🛠️ I’m still a beginner, but I’m consistent, curious, and willing to work hard.
-
-🧠 Every project here is part of my journey to turn learning into impact.
-
-👉 Check out my [blog](/posts), learn [more about me](/about), or [get in touch](/contact)!
-
-
---- G. Carvalho
+This blog is where I share my journey, projects, and insights. As a self-taught developer with a knack for problem-solving—honed through winning **_gold_ and _silver medals_ at a Brazilian Math Olympiad ([_OBMEP_](http://obmep.org.br/estudos.htm))** — I’m excited to create and share projects that make an impact.
