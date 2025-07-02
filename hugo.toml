@@ -59,7 +59,7 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
     ## Enable extended metadata (social cards)
     extMeta = true
     ## Enable coffee metric
-    coffeeStat = false
+    coffeeStat = true
     ## Default social card image, recommended resolution: 1200 x 630px
     # images = "example.com/img/social-share.jpg" 
 
@@ -78,7 +78,7 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
     ## Comments configuration
     [params.comments]
         ## Disable comments (disable fediverse comments)
-        disabled = true
+        disabled = false
         ## Comment platform selection, pending rule implementation
         # platform = 'giscus'
 
