@@ -4,7 +4,7 @@ keepAspectRatio: true
 ---
 
 # About Me 📌
-Hi, I’m [_G. Carvalho_](https://www.linkedin.com/in/gustavo-carvalho-54b43a363/), a **high school student** passionate about **technology**, **competitive mathematics**, and **freelancing**.
+Hi, I’m [_G. Carvalho_](https://www.linkedin.com/in/guscarv), a **high school student** passionate about **technology**, **competitive mathematics**, and **freelancing**.
 
 I’m diving into **💻 Full-Stack Development**, **🖼️ Multimedia Design**, and exploring online business ventures like 📈 **Affiliate Marketing** and 📦 **Dropshipping**.
 
@@ -12,3 +12,4 @@ This blog is where I share my journey, projects, and insights. As a self-taught 
 
 ## Contact Me
 - **Email**: gus.carv404@proton.me
+
